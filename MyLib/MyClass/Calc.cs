@@ -8,6 +8,7 @@ namespace MyLib.MyClass
     {
         //1;
         //2;
+        //-----!-----
         //3;
     }
 }
